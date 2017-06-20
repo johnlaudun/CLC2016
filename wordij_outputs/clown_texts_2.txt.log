@@ -1,0 +1,32 @@
+Text file name: /Users/john/Code/clowns/wordij_outputs/clown_texts_2.txt
+Configuration:
+Drop list file name: /Users/john/Code/clowns/wordij_outputs/stopwords.txt
+Include list file name: none
+Select list file name: none
+Drop words less frequent than: 3
+Drop word pairs less frequent than: 3
+Preserve wordpair order: yes
+Include numbers as words: no
+Link until sentence end: yes
+Link steps: 3
+Linkage Strength Method: CONSTANT
+Remove punctuation inside words: yes
+Compound words: combine
+Using Porter stemming algorithm: no
+Using Chinese filter: no
+Replace English contracted forms: no
+Replace 's ending by is word: no
+
+Reading text file.
+Finished reading text file.
+
+Processing data without any select files.
+Writing word frequency list by word tag.
+Writing word frequency list by word.
+Writing word pair frequency list by word tag.
+Writing word pair frequency list by words.
+Writing word statistics file.
+Writing pair statistics file.
+Writing output in Pajek format.
+The program processed the file in 0.0137142 minutes.
+

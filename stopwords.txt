@@ -225,3 +225,4 @@ patrols
 month
 goldreply
 5
+points
